@@ -17,10 +17,10 @@
     "lib/**/*.js"
   ],
   "dependencies": {
+    "@noble/curves": "^2.0.1",
     "@peculiar/webcrypto": "^1.5.0",
     "base58-universal": "^2.0.0",
-    "base64url-universal": "^2.0.0",
-    "elliptic": "^6.5.5"
+    "base64url-universal": "^2.0.0"
   },
   "devDependencies": {
     "c8": "^7.11.3",
